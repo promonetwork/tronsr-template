@@ -1,4 +1,5 @@
-PROMO Community is a trusted network of people worldwide.  We strive to connect individuals around their passions and offer them a chance to save some money through the process.  
+PROMO Community is a trusted network of people worldwide.  
+We strive to connect individuals around their passions and offer them a chance to save some money through the process.  
 People like to share their experiences and we have lost this with modern day reviews and rating systems.
 Promo brings futuristing twist to rating and review systems like never before. 
 
