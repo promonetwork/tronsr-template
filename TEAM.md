@@ -1,14 +1,29 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: [Vyacheslav Mushyakov]
+Role: [CEO]
 
-## Team Member 1
+## CFO
 
-Name: [name]
-Role: [role]
+Name: [Efraim Aizenman]
+Role: [CFO]
 
-## Team Member 2
+## CTO
 
-Name: [name]
-Role: [role]
+Name: [Anne Douwe Bouma]
+Role: [CTO]
+
+## CMO
+
+Name: [Chance Hiram Sowers]
+Role: [CTO]
+
+## DEV
+
+Name: [Scott]
+Role: [Wallets]
+
+## Dev
+
+Name: [Ryan Smith]
+Role: [Server and Network]
