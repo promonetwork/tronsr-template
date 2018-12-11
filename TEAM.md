@@ -1,6 +1,6 @@
 ## Founder
 
-Name: [Vyacheslav Mushyakov]
+Name: [Slava Mushyakov]
 Role: [CEO]
 
 ## CFO
