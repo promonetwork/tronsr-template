@@ -9,3 +9,11 @@ Promo Network Will be available in multiple languages and allow not only its use
 The network feautres a digital coupon that can be used anywhere in the world.  Members dont need multiple accounts at different stores and malls, they just need PROMO Token and Businesses that accept PROMO for discount.
 
 Connecting the world one discount at a time! PROMO
+
+Our Plan:
+Release PROMO, Begin Marketing, SR, and New Business Listings. (small and mid sized businesses)
+Build Wallet, Servers, Build PROMO App.
+Partner with POS terminals and ATMs.
+Finish app with wallet built in.
+Expand participating locations worldwide.
+2nd Stage Marketing Level 2. (mid size and enterprise businesses)
