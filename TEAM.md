@@ -23,7 +23,7 @@ Role: [CTO]
 Name: [Scott]
 Role: [Wallets]
 
-## Dev
+## DEV
 
 Name: [Ryan Smith]
 Role: [Server and Network]
