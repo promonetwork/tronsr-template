@@ -1,4 +1,7 @@
-We are a group of individuals that are passionate about blockchain technology and its benefits.
-We would like to share this with the world, and help bring others into this space without risk.
+PROMO Network connects businesses and customers world wide.
 
-The team consists of a futurists, devs, and leaders.
+Promo Coupon is a digital token pegged to a percentage off allocated by the business accepting the PROMO Coupon.
+
+Users of PROMO can enjoy discounts and sales locally and abroad.  
+
+Businesses are no longer limited to marketing to their local population and can learn about the future of digital currencies without the risk.
