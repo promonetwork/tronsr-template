@@ -12,8 +12,13 @@ Connecting the world one discount at a time! PROMO
 
 Our Plan:
 Release PROMO, Begin Marketing, SR, and New Business Listings. (small and mid sized businesses)
+
 Build Wallet, Servers, Build PROMO App.
+
 Partner with POS terminals and ATMs.
+
 Finish app with wallet built in.
+
 Expand participating locations worldwide.
+
 2nd Stage Marketing Level 2. (mid size and enterprise businesses)
